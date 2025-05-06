@@ -1,0 +1,7221 @@
+{
+  "success": true,
+  "description": "Retrieved 100 personal bests.",
+  "body": {
+    "pbs": [
+      {
+        "chartID": "c2501696df54ad8093fe5a9cfc46b12438fd1c0d",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 308
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T85dca8eeeca5acb305352703b841a64519bb620babde55bf90a5aca0cab16d64"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T946a8dd7569b6d92f39c21c4f91b154223fe059e3dfd29b3c52df34913db3530"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 58,
+          "outOf": 216,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.6605,
+          "lamp": "FULL COMBO",
+          "judgements": {
+            "pcrit": 548,
+            "perfect": 276,
+            "great": 7,
+            "good": 0,
+            "miss": 1
+          },
+          "optional": {
+            "fast": 202,
+            "slow": 81,
+            "maxCombo": 425,
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 13
+          }
+        },
+        "songID": 980,
+        "timeAchieved": 1742368440000
+      },
+      {
+        "chartID": "04195f89a7e2dec09aab28f5220849665e54510c",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 308
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T55f0cad5953060554ace431b407559e4f37d770fa20a15ea417091764a7bbc80"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 128,
+          "outOf": 282,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.5214,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 13
+          }
+        },
+        "songID": 1021,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "84538c4bc9398f062829b09d5f66333de83bfc13",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 308
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tcfcceed9813589a2834793834413c2cd2d7fc4a0e2887a47d18c6e3f57581162"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 104,
+          "outOf": 271,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.5896,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 13
+          }
+        },
+        "songID": 1142,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "c9146dcae6060eec6cb83bf844251c7fb485ed8a",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 303
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Taf665826d6b735818cbdf3603d423df327ae888c3b422138056216ab141db7f0"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "Tb6e7010ec0c95821b38ab25819587bc9e83eac9f7479d9a57baf1b039e2c968d"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 26,
+          "outOf": 37,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.5423,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 631,
+            "perfect": 258,
+            "great": 11,
+            "good": 2,
+            "miss": 2
+          },
+          "optional": {
+            "fast": 109,
+            "slow": 162,
+            "maxCombo": 740,
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 13
+          }
+        },
+        "songID": 1407,
+        "timeAchieved": 1741608600000
+      },
+      {
+        "chartID": "abd2723b8348e197baccd566d3c53927a92aa554",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 303
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T220cde1a4378542a8ec5631de3fc74c928f94d91b124c0d3ab0fac59840e56de"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 69,
+          "outOf": 272,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.7081,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 13
+          }
+        },
+        "songID": 1393,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "c54bd48dceefcfa7e565a6cce96ac5a263fdbd24",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 302
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T8ed65c4ecc4722b4765999452928fbcbde8d4c48eeb7bb95161aba96f06836f2"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T05416b78e1c87c921c996d537b7bcc5a14d613a5825a5f2e269496219dfb1fe9"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 170,
+          "outOf": 268,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.084,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 543,
+            "perfect": 278,
+            "great": 23,
+            "good": 0,
+            "miss": 5
+          },
+          "optional": {
+            "fast": 162,
+            "slow": 139,
+            "maxCombo": 541,
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1380,
+        "timeAchieved": 1740752940000
+      },
+      {
+        "chartID": "6c0860a627d9980268d363438da2a703d2305b23",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 302
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T7e9112ba637aa7d85eed4121d8cf3b194ebfc47a4c4f824dd183c98f92cd9131"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 158,
+          "outOf": 300,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1963,
+          "lamp": "FULL COMBO",
+          "judgements": {
+            "pcrit": 561,
+            "perfect": 307,
+            "great": 35,
+            "good": 3,
+            "miss": 0
+          },
+          "optional": {
+            "fast": 285,
+            "slow": 60,
+            "maxCombo": 906,
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1106,
+        "timeAchieved": 1742369460000
+      },
+      {
+        "chartID": "f61fe5cc713e269d7559657d366c0aeb3369c16c",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 301
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T15f485526098deddc4b6cf6b99468998a79379bd06b33b51c9ba5611bd03b993"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T8e42b95f57ab3f836e3761ada3ab8b8da67585ebd68dbc7e75af442ceef05a95"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 89,
+          "outOf": 256,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.658,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 564,
+            "perfect": 200,
+            "great": 9,
+            "good": 1,
+            "miss": 1
+          },
+          "optional": {
+            "fast": 178,
+            "slow": 32,
+            "maxCombo": 711,
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 13
+          }
+        },
+        "songID": 1381,
+        "timeAchieved": 1741345320000
+      },
+      {
+        "chartID": "1a043c299011c2f11a145aa1bd229f7174710c5f",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 299
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T017efd55f754e89d51faac64984a4a1e2f98607f4a32421599dc0ba228284410"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 127,
+          "outOf": 260,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.6102,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 18,
+            "perfect": 709,
+            "great": 4,
+            "good": 1,
+            "miss": 1
+          },
+          "optional": {
+            "fast": 1,
+            "slow": 4,
+            "maxCombo": 394,
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 13
+          }
+        },
+        "songID": 1101,
+        "timeAchieved": 1740484620000
+      },
+      {
+        "chartID": "37f434f576f0e95d454bc29548d2e82e860e371c",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 299
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T018283a4168c0b64a7b1d38b399a42617dd5601c36233412d092bcb316407cff"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T51be1d24636de6f266cb859a15b680f7a46dbbabff669aff8502e020b2cec32b"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 189,
+          "outOf": 291,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.3203,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 586,
+            "perfect": 249,
+            "great": 12,
+            "good": 2,
+            "miss": 2
+          },
+          "optional": {
+            "fast": 161,
+            "slow": 102,
+            "maxCombo": 468,
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1127,
+        "timeAchieved": 1741002000000
+      },
+      {
+        "chartID": "436247f380aa8260f4d927c4d0fc15b82acc1eb9",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 299
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T2628051ad05dd4e319a573120494c62083e93635becee2f572af0ea20deded67"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 129,
+          "outOf": 357,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.7467,
+          "lamp": "FULL COMBO",
+          "judgements": {
+            "pcrit": 35,
+            "perfect": 709,
+            "great": 8,
+            "good": 1,
+            "miss": 0
+          },
+          "optional": {
+            "fast": 6,
+            "slow": 3,
+            "maxCombo": 753,
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 13
+          }
+        },
+        "songID": 1004,
+        "timeAchieved": 1740571800000
+      },
+      {
+        "chartID": "056955891f7ba0a0ae35cf51febe8c452a57f2fe",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 299
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Te27e54f3c99ff1bb12a634c48c68d0a4f23b07b2ffccbbaebca5d05fd7248a41"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 118,
+          "outOf": 258,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.3177,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1143,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "72f10294cae24a7d8069df6c2492752e5fabc230",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 298
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T8182480a2172c8260c3b651289e7f0c71a37751e3710e514ce807015f496210b"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 65,
+          "outOf": 194,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.0324,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 997,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "66aa6e1e1e6dc6a3271e3ace793ecd0a7acda97d",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 298
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tded8637116d78fd05705a585108aa9e0415f1ef62d14863dde906e9726530bff"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 165,
+          "outOf": 266,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.2054,
+          "lamp": "FULL COMBO+",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 3,
+            "grade": 12
+          }
+        },
+        "songID": 1103,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "ec6d2e32605d3154db272dcee14c49e01321a4f5",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 298
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T8c26d67ababba560bf7e0727319f03306d99dda01287514a26b03b680c1caccc"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 120,
+          "outOf": 267,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1259,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 961,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "e6975b279dc6efc85e957bf74710fa6235056c17",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 298
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T062dae238c7fc72d87bdeb62b3580e491137b06acbd29cb4308c844f92b55960"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 126,
+          "outOf": 272,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.2696,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1093,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "36b9930a9acf4fb2963fbdc66be11390b893360c",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 298
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tda29214d5e0672b9489b5d47937327aad609b470bd191ae34affc5f26c965564"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 223,
+          "outOf": 347,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.0882,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1062,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "b1e7dcce72077f25ac00cbce925c8a202b9abf5a",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 297
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T10c9f708b12b17686fcd4a2f4718063f132523b667018994595e81f6251b3082"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 46,
+          "outOf": 128,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.5583,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 13
+          }
+        },
+        "songID": 341,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "79c6f1ce53d131fd6ba15d39e9d2844217402cb7",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 297
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T39a0eb2ca09578c4ee173ab76c976e797d0671450077cd038508639f43d936ae"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T33f7767c46db052448eddeb3296c1808eb633ccf9d57278c496910de7048884f"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 92,
+          "outOf": 240,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.4783,
+          "lamp": "FULL COMBO",
+          "judgements": {
+            "pcrit": 561,
+            "perfect": 253,
+            "great": 17,
+            "good": 1,
+            "miss": 1
+          },
+          "optional": {
+            "fast": 201,
+            "slow": 70,
+            "maxCombo": 746,
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 715,
+        "timeAchieved": 1741344660000
+      },
+      {
+        "chartID": "8f94f9a5ddbd75e76e2c492247ca9ed133b873bb",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 297
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Te226f191fbbdfd67be32c1a8737b60a5afda21dbcb7924a98b9d8d3bf30896e0"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 137,
+          "outOf": 295,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.3879,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1054,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "194adbc0e67e5911d349383c881f1c9623ca160f",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 296
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tc9ec285d42082f8d966021f9ead80bd4565190008833f7896f6e68654105f0c7"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 136,
+          "outOf": 217,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.0164,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 1150,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "0c235471f2610140b4e8d5d83d0b7624a4453543",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 296
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T5a87e00415f4e1c6ca427479684365d439e72a0920c473481acf8f05b9eef58b"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 111,
+          "outOf": 237,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1049,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 757,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "e59951a13da39fa637aa8c156168c32c109b9293",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 296
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T890491b094a3b249d2d95496689bf99885d5016147994812a64b1b53c69a0636"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 236,
+          "outOf": 368,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.2653,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 36,
+            "perfect": 799,
+            "great": 19,
+            "good": 4,
+            "miss": 1
+          },
+          "optional": {
+            "fast": 8,
+            "slow": 15,
+            "maxCombo": 814,
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1048,
+        "timeAchieved": 1740574800000
+      },
+      {
+        "chartID": "f6c2c55eb93b72ad724e7d215b91fc7fdfd5bcbb",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 296
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T338740e5c2c0c4f6054e3430e4ac5c0b600870e85c8dcdde6fc01d605e2a36b2"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 156,
+          "outOf": 251,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1126,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 610,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "11513b422b4a4087a6c0786ad9761de942f6a3fd",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 296
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Taee5c481e91decc13f8e6119b3ec038e8d3598e4eb336d92448d9fcd365ee895"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 148,
+          "outOf": 267,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1174,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1215,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "6136cfe01b4761db04ca512e07dab2fc6244715a",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 296
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T4f6f4035667859fc8a6fc6fa8cd69b40dce817e514a6079a7b2a1500a0ac87e7"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 25,
+          "outOf": 32,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1976,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1415,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "8915aaef9ead8b393886c196e9c5b96469f180ac",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 296
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T79d370491926d4299a8b2db23fbeb8913dbe5f6764f2fd455c2e3d00d461021d"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 146,
+          "outOf": 287,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1104,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1116,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "6b182790cc4413c2dd9c7a9a52a60f02002a614f",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 296
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tbf075e02829b1f5abe1c3c702d95df62994a75f3d33c0fbc949a101f5e466de2"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 86,
+          "outOf": 209,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.0571,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1009,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "2af4634651427bc7915c4b97bdc34229b6aaf1d8",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 296
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T45dc38ab3a80d41e6746b618ab7e7441c9dfc496cf507cb21639c100faf084dc"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 31,
+          "outOf": 38,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.0982,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1413,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "ea170ff8ff22475ed63794d243e7c56f8af60ff5",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 295
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Ta781c8942ca820ede34862d69416901c325f3f5e17ed19ec275d531eb823dad9"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 189,
+          "outOf": 252,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.0099,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1236,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "79c85d31e118fefce4f675e78fe3c6e13e908ddf",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 295
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Te1ac79fa8d5ea7d50510084be1aea8e16da4ff2f5c1dbfacbb96eace73d2568a"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 172,
+          "outOf": 252,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.2176,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 1041,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "c2921a6a1237f26188cfb91a5f399e3ccd27f7ec",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 295
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tcd672930fc23bd63c46fff9f22dec5db1c1df6681eeecb95f16181c892e59ded"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 185,
+          "outOf": 267,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.2709,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 998,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "e580c64dfa4109a6778277b105f5a419325e911e",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 294
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T584de558b7ca265e64fb7edc1413a704ab53e1d051876f876c2cf2e268b705cd"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 161,
+          "outOf": 290,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.352,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1099,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "5c35177486c2ed98266a0dd193cc27d42115efa2",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 294
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T94e991c6a0dfebb63ca63a8a783b27d6f302f3d817a3ac5c981778713e1e36b7"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 162,
+          "outOf": 262,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.2111,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 925,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "e8c021b29d7376650f99e18121e1b2d705b80565",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 294
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tff6059d22a196e2a51fdfcbacdc7dfdadd3ce4a44f615482ee3e8c782c44fdf3"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 147,
+          "outOf": 230,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1018,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1385,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "ce9bdb8d438ee374cf33307c9f7e0ff7bfccd4b1",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 294
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tdf8a2eacfc716f72b732c9b208a5bcaf2caebddbf38623641aea9a837f121b68"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T0e9265c817fe67b01827f845caaa1cc64804f60447baa0dcbe78f7997b6b9f46"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 126,
+          "outOf": 231,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.6185,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 637,
+            "perfect": 244,
+            "great": 45,
+            "good": 3,
+            "miss": 1
+          },
+          "optional": {
+            "fast": 195,
+            "slow": 97,
+            "maxCombo": 881,
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 785,
+        "timeAchieved": 1741004760000
+      },
+      {
+        "chartID": "e016fc2a3e509f3a4ae03745b2a326409aec6658",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 294
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T5c8a019666bed1373891676b4e6ee1f03a7671e32082ffbea9e07c0a36b96eb3"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 176,
+          "outOf": 271,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1696,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1072,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "3a38b669b28a2721b793309b628930d8d96491f8",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 293
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T21f0d4e934b198e5c023a7cc685e31dc8a0d710a1dd06316cb160e5f62343bb8"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 114,
+          "outOf": 235,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.4837,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1100,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "95129981e7b7266b16f732ab588d4ce6e2dac34c",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 293
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tfbe98585e2ee54f142d1501e7b5bb7023afb114ba65604332cca6f2f0172acc8"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "Td1b20cb9b9f1063b0f567e24c2d0d99a7189cdc8249cd8c5aa5c4f3b2b5cf997"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 32,
+          "outOf": 42,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.2528,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 585,
+            "perfect": 276,
+            "great": 51,
+            "good": 6,
+            "miss": 4
+          },
+          "optional": {
+            "fast": 188,
+            "slow": 145,
+            "maxCombo": 473,
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 1414,
+        "timeAchieved": 1741267680000
+      },
+      {
+        "chartID": "2d177779fdf34dcea8a4845852792ae44e96a959",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 292
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T719722440278ead2bcd04a65bd27f86ac7af47e769d20d55e6f8d5f4510cd6a1"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 120,
+          "outOf": 280,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1676,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1227,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "90ebe6c67885127d1655ef5b11bb395a9bd8daad",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 292
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T5e5f844a6e63f25bb2353e5fe63941b6709c2a936fe017734a21aa3bade8a234"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 22,
+          "outOf": 32,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.6832,
+          "lamp": "FULL COMBO+",
+          "judgements": {
+            "pcrit": 596,
+            "perfect": 162,
+            "great": 14,
+            "good": 0,
+            "miss": 0
+          },
+          "optional": {
+            "fast": 75,
+            "slow": 101,
+            "maxCombo": 772,
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 3,
+            "grade": 13
+          }
+        },
+        "songID": 1411,
+        "timeAchieved": 1742369940000
+      },
+      {
+        "chartID": "7c2cd8bdd943e71f7cf4fb840603884db39a4344",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 292
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Te3fb8ac4de65fc6b260268136dae673267449b42750b0af7ba8653fa3d2d986b"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 55,
+          "outOf": 218,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.6888,
+          "lamp": "FULL COMBO+",
+          "judgements": {
+            "pcrit": 528,
+            "perfect": 152,
+            "great": 10,
+            "good": 0,
+            "miss": 0
+          },
+          "optional": {
+            "fast": 82,
+            "slow": 80,
+            "maxCombo": 690,
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 3,
+            "grade": 13
+          }
+        },
+        "songID": 778,
+        "timeAchieved": 1742367120000
+      },
+      {
+        "chartID": "29762bd31ece20b258ddf10f0046562af158f68c",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 292
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tdb35a0016b651b23347f70c51243667d90f267848e5fd4976f2d7ae1b9a9a747"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T78131ae17faecad0f67269343cc1e331f233a3b59c5fb56bd918518abbb3bc46"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 26,
+          "outOf": 38,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.8269,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 11
+          }
+        },
+        "songID": 1406,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "2d5606489ec85e0bae7032d4bd3bd933347533df",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 292
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T50836da5f8b8ba9279c73bf2c9022b7b178bdb8ebbeafafc168be2a16a3c08bd"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 61,
+          "outOf": 187,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.3867,
+          "lamp": "FULL COMBO+",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 3,
+            "grade": 12
+          }
+        },
+        "songID": 1383,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "6b7f63716755b5419e489113a052a0c46def0836",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 291
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T190867b31a898ee1e08376de9e6dcc225d14528b9763cc9635448890b902478c"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 233,
+          "outOf": 367,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.0728,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1063,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "034ad2d92b1a4740cf4611e3a06d6a23da0d1e73",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T5d00be3430070e97cbe80189220239ad51ef3e72df22e842c64c8ce53299fcf7"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 26,
+          "outOf": 37,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.6548,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 756,
+            "perfect": 215,
+            "great": 20,
+            "good": 3,
+            "miss": 4
+          },
+          "optional": {
+            "fast": 85,
+            "slow": 153,
+            "maxCombo": 384,
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 1412,
+        "timeAchieved": 1741357020000
+      },
+      {
+        "chartID": "11052738550e0b3324240d1e91fa6360ee50f21e",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T0c32497666d806e14496686a5965645e9a221bf1d0e2bfa8df598fc8cac0b7aa"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 34,
+          "outOf": 173,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.6273,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 13
+          }
+        },
+        "songID": 679,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "dc387ea9b8484338b14202f67818432f4c1cb325",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tcde5145299710f1f8a57f995c68435b1c9b1bbb2426c8abfef74e56cbe581e6e"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T9acb3b6464774d0ac8ad263f7d7b584b8ef6dd005e26018c43454c4e563560ee"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 211,
+          "outOf": 313,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.8354,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 800,
+            "perfect": 240,
+            "great": 23,
+            "good": 8,
+            "miss": 4
+          },
+          "optional": {
+            "fast": 102,
+            "slow": 169,
+            "maxCombo": 811,
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 1205,
+        "timeAchieved": 1740742860000
+      },
+      {
+        "chartID": "7550762cc289d11fcf2f38c494fbbe7db5542b31",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Te4347f1dadb2aadc2e8def927d34ad8a07244e9f3a61c832595b28474552315b"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 37,
+          "outOf": 94,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1963,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 469,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "0943775f01df2e27396c7cc11ae32d4346d4d6b7",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T919a4f7dc6d146bb211583bc861fa40c9bb8fa4eb43fd58a166115019fdd75dd"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 119,
+          "outOf": 240,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.6828,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 174,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "154fcb76f6ae22132ee8f175a94be0dedc1918ce",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T09a97f0254c2fdcfb428f0b3024cd535b73172236350a05d242df9b2cd7c6342"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 65,
+          "outOf": 150,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.3716,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 83,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "d4f2d5032a156b761c722eb076cfd319d5716090",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T27d4b4a896ee12c5639f6a02cf0ab0ea42c7740262c078aacf0367d776560874"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 122,
+          "outOf": 245,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.6114,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 300,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "88dfccd129cf5caf19b37f019b5b95b0066c2c2b",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T41b17a6aa158aa495cebd287c93a93ea90ed59a4da82845c42bcfeb847df116f"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 184,
+          "outOf": 284,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.8129,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 1075,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "b46374ef2dd84b778f32a2678f773be34be18c2e",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T9f90ef295f1ac75f8605b1660784810ceaeba4311a871e345249abeb2061476b"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 72,
+          "outOf": 193,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.2147,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1220,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "71bc6de9ec19ac94930cf44aaa3544943c99a608",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T01180d1b46b9a22b789e91e1cf7b92d265dea201861242b0f4302ad912f0f376"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T50d673a70479afa0fa3dd7069124986667a7a849450ae5979854d45353186c48"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 157,
+          "outOf": 318,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.405,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 526,
+            "perfect": 214,
+            "great": 6,
+            "good": 2,
+            "miss": 1
+          },
+          "optional": {
+            "fast": 103,
+            "slow": 119,
+            "maxCombo": 724,
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 950,
+        "timeAchieved": 1742209320000
+      },
+      {
+        "chartID": "7722c39aaeb1dc971ceb628a474271b5573bbd2c",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 290
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T771b8026321679fd2f76025a21f13897f64838fd631dd2aaabeccd23601b2183"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 85,
+          "outOf": 176,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.7713,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 763,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "699a822438fc9f3a11ab4d044850acd914f5ef8a",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 289
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tb01710fb9d0ce16cfed5436c3ae476abbd6ff906b3b7c61236b33deb4135842c"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 130,
+          "outOf": 190,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.9763,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 11
+          }
+        },
+        "songID": 297,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "5eb2e812432ae4f8146df2ee7523d0c26bba0eba",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 289
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tce6d2551d56383e5d8b444620d08a1d648bd90b5353989c288e819cac7c92450"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 184,
+          "outOf": 277,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.4054,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 26,
+            "perfect": 767,
+            "great": 27,
+            "good": 8,
+            "miss": 4
+          },
+          "optional": {
+            "fast": 21,
+            "slow": 14,
+            "maxCombo": 324,
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 1010,
+        "timeAchieved": 1740488760000
+      },
+      {
+        "chartID": "4a9da1c5d94aa60fdfd3ab465a187566fc74b65b",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 289
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tdf68cbb9dff6104831ee9db92573f943d6aa9e608e7e06b67c5e3819315de518"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 197,
+          "outOf": 306,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.0152,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1134,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "4037423850e111b28df720bc4273b31f8f311f96",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 289
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tbfee60917c49b370d765cf6286abeb3c9c12abcd8d7e475ed6a2b89523a7296b"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 66,
+          "outOf": 152,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1305,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 324,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "72ca58caaef7e36ab028e5b8d0c278db078d605a",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 289
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T182d3bce87f12badd59f17cc90a4387bc1a4362f66557143b1e0f2f3a005375b"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 144,
+          "outOf": 246,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.3922,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 1182,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "cf4b9a70c78979b355f5a7366aee39b133a0adba",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 289
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T13a6447dabc92ec80cd07526f8e290aabdf6641272753b04a5984fbe1e24d182"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "Te98900f6ef38e0f52425e2a382914824daa681c2d51782e44e3bdddbac762f97"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 115,
+          "outOf": 202,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.3876,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 653,
+            "perfect": 248,
+            "great": 37,
+            "good": 5,
+            "miss": 3
+          },
+          "optional": {
+            "fast": 163,
+            "slow": 127,
+            "maxCombo": 525,
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 919,
+        "timeAchieved": 1741609620000
+      },
+      {
+        "chartID": "b4d34905ecd90eed293d36a7b75026db2d9b1299",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Ta2da57e59d2ac2dcd20fcd372ef80efe127e56a5f99b1542ac3fe9501ce30f28"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 159,
+          "outOf": 226,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.778,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 1233,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "d85047d6f9fff23dce1ddaa8d9ecefde158bebcf",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tc203942124ef9710df7d981dafdbdff940e0d7928f2a99be78264b2f5b6f5e1b"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 158,
+          "outOf": 258,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.9437,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 1394,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "0fcdd506f3c1cdc5d7ca482e7ad879a831d07ec0",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Td9c84878d945eb783e2082d25d80fe1004e82fd6fc7ff3203b9d721e5d547d9b"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 92,
+          "outOf": 211,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.223,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 370,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "c7bf3866e7f047efbfaa03e36f857c6e49a293c2",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tfaaef50f62df147e1b8f93cbca0f2367a36145c4db5af828aa92bb7b8e433f1d"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "Tf44b3750d8a9cc1bce1ba5da361a5baf5a3b8e7441a2cd9bfad01671e4cd4126"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 138,
+          "outOf": 214,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.9746,
+          "lamp": "FULL COMBO",
+          "judgements": {
+            "pcrit": 554,
+            "perfect": 240,
+            "great": 27,
+            "good": 1,
+            "miss": 3
+          },
+          "optional": {
+            "fast": 97,
+            "slow": 171,
+            "maxCombo": 545,
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 11
+          }
+        },
+        "songID": 1218,
+        "timeAchieved": 1741349700000
+      },
+      {
+        "chartID": "e77c66e1619354c2cf2efba5a837f775d44ac461",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Ta21b918452b26d7f0dfd4b6d3622e5760af8ffa256f14b9de2e70cf877651a18"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 93,
+          "outOf": 193,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.8989,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 171,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "451da9524f2d5b8c33fdc060993ef1d8a1c64bd1",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T96fe1757dd643132cc24748d5a76546ae14b2d86b6c1d9b810c57227e2d6e185"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 58,
+          "outOf": 179,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.5864,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 13
+          }
+        },
+        "songID": 1149,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "71c6bc7b604b9656bfe21d9017f5a9a5cce60cda",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T921a135febbdf65924e0c846f78a13b6a8c2da30ba9e74a6e83238eaca800ce2"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 113,
+          "outOf": 217,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.8158,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 1070,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "1708cb12ed3660084b3c3588362919945700a9a6",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Td06738e6a9e6c0e0662b7f3bdebcee1d899247f2dfd6562bd469a9c245f92c02"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 153,
+          "outOf": 267,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.949,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 11
+          }
+        },
+        "songID": 858,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "979e08f772f74bacae8e315ad5c8effe4d27849e",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T12e0e4841a5e73e120cca7b6a7056f6edb982ba94998fc2a6d3805a2974dd7ff"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T4cfcca466f23926b4e139eb5c21f69313af04fcaf56cd71d4c1523a407d845a0"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 185,
+          "outOf": 303,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.3243,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 18,
+            "perfect": 881,
+            "great": 15,
+            "good": 6,
+            "miss": 2
+          },
+          "optional": {
+            "fast": 17,
+            "slow": 4,
+            "maxCombo": 440,
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1211,
+        "timeAchieved": 1740572220000
+      },
+      {
+        "chartID": "7d05e7e21b0cb861afd26c16d63156d05e04925b",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T2bacfee6c46fe8caf717c58f674cb444080ce6f8816f86cf001ec77e0e05d7c9"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 98,
+          "outOf": 307,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.6339,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 13
+          }
+        },
+        "songID": 1092,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "bb9611daf82101be5aec9042b43c226d0721d17c",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 288
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T8c2f5c14a0fc5b88639738d25a0f45bb1c0b2809efb88d9a74f5587762ebaa80"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 139,
+          "outOf": 311,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.5793,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS+",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 13
+          }
+        },
+        "songID": 524,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "34b939fa0f8c246f9c258b8f0ae2afefcd4c4809",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 287
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T54a84b232e7c56fabc36f7100cc164f387f6eaa9e328e7f5a9336b62ca802a46"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 133,
+          "outOf": 240,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.2929,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 490,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "f664ccbf9da35e8c505564bb94cdc5c1afd631be",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 287
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T47bde19c8f937ada0393ac24859b91f561e485b95da754f14d74a0f0e4970669"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 156,
+          "outOf": 239,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1989,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 525,
+            "perfect": 253,
+            "great": 15,
+            "good": 0,
+            "miss": 2
+          },
+          "optional": {
+            "fast": 206,
+            "slow": 62,
+            "maxCombo": 520,
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1375,
+        "timeAchieved": 1742369760000
+      },
+      {
+        "chartID": "d2f1d3fbea4f4ba4aba493dadd9e75ce47daa2fa",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 287
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T4ac255d069c2b417869e4c7488ad57c5cfa76cc5e1341919ef3d4c9ae233bd61"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 148,
+          "outOf": 245,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.3131,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 1221,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "58857b4bac159b250db06d9ba99be3ff9812540b",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 287
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T64730d95e04735736554d6e9cfdd094da63638dd033eb8352eb4039c8501bc35"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "Tee12338ac2431a1eabd66a31782fba617cf68c9284ec0d62adbf890b7da796c5"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 21,
+          "outOf": 27,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 98.3646,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 55,
+            "perfect": 897,
+            "great": 83,
+            "good": 5,
+            "miss": 8
+          },
+          "optional": {
+            "fast": 59,
+            "slow": 29,
+            "maxCombo": 395,
+            "enumIndexes": {}
+          },
+          "grade": "S+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 9
+          }
+        },
+        "songID": 1418,
+        "timeAchieved": 1740489780000
+      },
+      {
+        "chartID": "5d51950e0a3c05835d5be9a657a8c7f84ace05d8",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 287
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T63a37d3f61ff31d14afca54b25cca2639ec7e68c15bfa25b3c77611cfad29058"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 51,
+          "outOf": 122,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.4222,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 10
+          }
+        },
+        "songID": 195,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "8a661b6b7bcb9d3f067752c0644a07222e87dc70",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 287
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tde880587c504d1bcef6f3d881da8273aba1250f9265a2bc23a161f8f1a2d727a"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 138,
+          "outOf": 241,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.5879,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 714,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "f5c04e494c3e4dd8a877b79ce27274fa8ee636b8",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 287
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tcc0a6c78f22f1226ee18ed1a149f6261f87a859956b1df49e1b56a4b95b64667"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 77,
+          "outOf": 206,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.0714,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 109,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "b9186c3aaa783e6f07791f582285ece8a3bcec70",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 287
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T0a8a22ab0dcf9020640c5998b807a120adf106eda27a4630dd0329366818e078"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 74,
+          "outOf": 191,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.0159,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 105,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "7ce26db1107fd8bb8211f58bcb7ba9e7548527c7",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 287
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T73db62aec241b37cdc3aff2676788862166f76519cb78aa1222736ffe474a153"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 40,
+          "outOf": 109,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.2472,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 49,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "996ff6c5400242ca48b58f8f28298e7aa7c886eb",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 287
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tca61fd7d330c1c43c171535512be9b505bfd1376a94a72f4b6d725e2d1b3c4ab"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 112,
+          "outOf": 213,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1999,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 1039,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "37e76b6d82f7f7654eead7f8d4583d09a1003cb2",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Td856e935c2b19eaf4f20b73fe7b52b470b87f90f156845e933e08c3072ab1fbb"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 161,
+          "outOf": 319,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.7129,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 1167,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "2bbbcb8b3347c231884e724efffda909d8eda473",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tcbb5e88aa38e846357f559532667bd01c798ff960906d37c7494d9e20519c6c3"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 157,
+          "outOf": 264,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.0134,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 470,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "cb7132a389a130c8756734fabd9c9aeb8cca1250",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T5a560bf9f90b6fdc435dd84db6d942df2a239c17500af07c5108547864035ba5"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 30,
+          "outOf": 136,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.3811,
+          "lamp": "FULL COMBO+",
+          "judgements": {
+            "pcrit": 343,
+            "perfect": 192,
+            "great": 17,
+            "good": 0,
+            "miss": 0
+          },
+          "optional": {
+            "fast": 114,
+            "slow": 95,
+            "maxCombo": 552,
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 3,
+            "grade": 12
+          }
+        },
+        "songID": 224,
+        "timeAchieved": 1741346160000
+      },
+      {
+        "chartID": "cf1f5c8e0059156a0615bcc839ab5513d6f9fb7e",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T665f0ebf962734e150740b9a5418b83bfa482166124e5891c7e88d7a4fb49ddd"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 122,
+          "outOf": 251,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.3187,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1091,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "2ae5db2017d15649139cbb525ca074a4c9a66b2c",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T214ded37cd888a184c1f5b3221c4eb7b20c408c1b7109b1c514b537d0233c6a4"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 90,
+          "outOf": 245,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.468,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 996,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "4c58105b1165f93d429d48a05449c42deec36569",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tfc243a0798fe571d6710c14ac0cafd2ab98ec76e23800539e9ada930f2169ffb"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 182,
+          "outOf": 334,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.6837,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 231,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "6b6a9ef0bf90e4e5d5f019999b4f59d4526e3a3e",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T1ae49d2d7374a5c1cece4c86ea6643fb8db6cc3aa32fc13e3161d608fa55cd28"
+          },
+          {
+            "name": "Best Lamp",
+            "scoreID": "T45ac76055a7e0b4de5263a1fd88c2e3c39c69829353bb4eed6cefa69dcdaf75f"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 180,
+          "outOf": 256,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 98.6712,
+          "lamp": "CLEAR",
+          "judgements": {
+            "pcrit": 724,
+            "perfect": 334,
+            "great": 69,
+            "good": 18,
+            "miss": 8
+          },
+          "optional": {
+            "fast": 277,
+            "slow": 144,
+            "maxCombo": 358,
+            "enumIndexes": {}
+          },
+          "grade": "S+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 9
+          }
+        },
+        "songID": 1060,
+        "timeAchieved": 1741005480000
+      },
+      {
+        "chartID": "298b62eb9f45cd4146e9588e7435039b05cc7331",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tf965ad3a594fa381b77051ae34b56d3dafa45ddca5965e69b6ee57cf01a767f4"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 136,
+          "outOf": 232,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.8879,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 11
+          }
+        },
+        "songID": 1382,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "0e23943e58a87f16f562e733d6b88273b0906806",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T755b69633cfd28f4263e0ca6d519a48b9f1c640104928ffdeb1e66dd82ff9391"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 167,
+          "outOf": 211,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 98.0486,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "S+",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 9
+          }
+        },
+        "songID": 1023,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "04056d4e4cba2e43a96e15ea0a69051f5cc9e7bb",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T874a244b5ce06807fbf9999c55fd56bda5ef9cfce3789b106cf768eff32a4ec4"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 166,
+          "outOf": 246,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.1422,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 1045,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "47b9115c5322e20ea1d18393b27d1ec0afaf0cc5",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 286
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tc73d7d57a37788844595c5aba057ca27b3644b38765e0164b70217b787885a9a"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 130,
+          "outOf": 212,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.0658,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 789,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "48d7384dd8db912e0040bc493615f5ed5438d5b9",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 285
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T696af783dcfadb68239611d0830f9aba4d7b3c39d051725e533aa08fab616da4"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 110,
+          "outOf": 221,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.0592,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 12
+          }
+        },
+        "songID": 359,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "20fb79b329025c911a032db2c5bc8b4f6edfbd47",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 285
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Tdee8abb9e0dd25fd9dfeed26073cb5b9bcb104b789d6cbaf41c5bce8281e03c0"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 105,
+          "outOf": 177,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.2916,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 301,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "5103cf22ccc17d9b7b118e9b4ba3ce3caa25a4bc",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 285
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Ted5feeb108991b50d965d821829b263e156fe2ae7fe17acbebb66fa35625279e"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 114,
+          "outOf": 213,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.4808,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 935,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "f70664c128fad6b63a9157fcfceb730b439dfc6c",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 285
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "Ta20f3bc3f29d505ddf7d484a3639963a99cc3a62fd3ac82ef7494e7b10579ae8"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 118,
+          "outOf": 262,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.2737,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1194,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "2350e8b186680d00d8222b987ff8c138945e6567",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 285
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T6d6db22f404026f4e253aeb8a58cb53e7cc305b67ba622e8f9e288d9df3fb3a8"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 26,
+          "outOf": 32,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 100.1694,
+          "lamp": "FULL COMBO",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SSS",
+          "enumIndexes": {
+            "lamp": 2,
+            "grade": 12
+          }
+        },
+        "songID": 1419,
+        "timeAchieved": null
+      },
+      {
+        "chartID": "97391f54de109906095d16219c273378e071c246",
+        "userID": 2379,
+        "calculatedData": {
+          "rate": 285
+        },
+        "composedFrom": [
+          {
+            "name": "Best Percent",
+            "scoreID": "T1f9e861aec1758e7b4888cf8604778e552ec8bececb24fa4fbe8aa0baa45f097"
+          }
+        ],
+        "game": "maimaidx",
+        "highlight": false,
+        "isPrimary": true,
+        "playtype": "Single",
+        "rankingData": {
+          "rank": 179,
+          "outOf": 258,
+          "rivalRank": null
+        },
+        "scoreData": {
+          "percent": 99.3862,
+          "lamp": "CLEAR",
+          "judgements": {},
+          "optional": {
+            "enumIndexes": {}
+          },
+          "grade": "SS",
+          "enumIndexes": {
+            "lamp": 1,
+            "grade": 10
+          }
+        },
+        "songID": 988,
+        "timeAchieved": null
+      }
+    ],
+    "songs": [
+      {
+        "altTitles": [],
+        "artist": "doriko",
+        "data": {
+          "displayVersion": "maimai PLUS",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 49,
+        "searchTerms": [
+          "Romeo and Cinderella",
+          "Romeo to Cinderella"
+        ],
+        "title": "\u30ed\u30df\u30aa\u3068\u30b7\u30f3\u30c7\u30ec\u30e9"
+      },
+      {
+        "altTitles": [],
+        "artist": "sasakure.UK x DECO*27",
+        "data": {
+          "displayVersion": "maimai PLUS",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 83,
+        "searchTerms": [],
+        "title": "39"
+      },
+      {
+        "altTitles": [],
+        "artist": "Masayoshi Minoshima",
+        "data": {
+          "displayVersion": "GreeN",
+          "genre": "\u6771\u65b9Project"
+        },
+        "id": 105,
+        "searchTerms": [
+          "Bad Apple"
+        ],
+        "title": "Bad Apple!! feat nomico"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u30d3\u30fc\u30c8\u307e\u308a\u304a(COOL\uff06CREATE)",
+        "data": {
+          "displayVersion": "GreeN",
+          "genre": "\u6771\u65b9Project"
+        },
+        "id": 109,
+        "searchTerms": [
+          "Night of Knights / Knight of Nights",
+          "Night of Knights",
+          "Knight of Nights",
+          "nok",
+          "kon",
+          "knightsofknights"
+        ],
+        "title": "\u30ca\u30a4\u30c8\u30fb\u30aa\u30d6\u30fb\u30ca\u30a4\u30c4"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u3055\u3064\u304d \u304c \u3066\u3093\u3053\u3082\u308a",
+        "data": {
+          "displayVersion": "MURASAKi",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 171,
+        "searchTerms": [
+          "The MMORPG Addict's Anthem",
+          "Netoge",
+          "Net game"
+        ],
+        "title": "\u30cd\u30c8\u30b2\u5ec3\u4eba\u30b7\u30e5\u30d7\u30ec\u30d2\u30b3\u30fc\u30eb"
+      },
+      {
+        "altTitles": [],
+        "artist": "kemu",
+        "data": {
+          "displayVersion": "ORANGE PLUS",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 174,
+        "searchTerms": [
+          "Six Trillion Years and Overnight Story",
+          "six trillion",
+          "Six trillion nights",
+          "roku chounen",
+          "six trillion years"
+        ],
+        "title": "\u516d\u5146\u5e74\u3068\u4e00\u591c\u7269\u8a9e"
+      },
+      {
+        "altTitles": [],
+        "artist": "SOUND HOLIC feat. Nana Takahashi",
+        "data": {
+          "displayVersion": "ORANGE",
+          "genre": "\u6771\u65b9Project"
+        },
+        "id": 195,
+        "searchTerms": [],
+        "title": "Cosmic Magic Shooter"
+      },
+      {
+        "altTitles": [],
+        "artist": "Shoichiro Hirata feat.SUIMI",
+        "data": {
+          "displayVersion": "ORANGE",
+          "genre": "maimai"
+        },
+        "id": 224,
+        "searchTerms": [],
+        "title": "MIRROR of MAGIC"
+      },
+      {
+        "altTitles": [],
+        "artist": "t+pazolite",
+        "data": {
+          "displayVersion": "ORANGE PLUS",
+          "genre": "maimai"
+        },
+        "id": 231,
+        "searchTerms": [
+          "oshama"
+        ],
+        "title": "Oshama Scramble!"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u30a4\u30ed\u30c9\u30ea\u30df\u30c9\u30ea\u300cCHUNITHM\u300d",
+        "data": {
+          "displayVersion": "PiNK PLUS",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 297,
+        "searchTerms": [
+          "MUTEKI We are one!!",
+          "muteki",
+          "We are one"
+        ],
+        "title": "\u7121\u6575We are one!!"
+      },
+      {
+        "altTitles": [],
+        "artist": "void(Mournfinale)",
+        "data": {
+          "displayVersion": "PiNK",
+          "genre": "maimai"
+        },
+        "id": 300,
+        "searchTerms": [
+          "rtr"
+        ],
+        "title": "Revive The Rave"
+      },
+      {
+        "altTitles": [],
+        "artist": "tilt-six feat.\u4e32\u4f0a\u30c8\u30e2\u30df",
+        "data": {
+          "displayVersion": "PiNK",
+          "genre": "maimai"
+        },
+        "id": 301,
+        "searchTerms": [
+          "Slip Flip"
+        ],
+        "title": "\u30b9\u30ea\u30c3\u30d7\u30d5\u30ea\u30c3\u30d7"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u30ca\u30e6\u30bf\u30f3\u661f\u4eba",
+        "data": {
+          "displayVersion": "PiNK PLUS",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 324,
+        "searchTerms": [
+          "Perfect Life",
+          "Perfect seimei"
+        ],
+        "title": "\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u751f\u547d"
+      },
+      {
+        "altTitles": [],
+        "artist": "Takahiro Eguchi feat. \u4e09\u6fa4\u79cb",
+        "data": {
+          "displayVersion": "PiNK PLUS",
+          "genre": "maimai"
+        },
+        "id": 341,
+        "searchTerms": [],
+        "title": "connecting with you"
+      },
+      {
+        "altTitles": [],
+        "artist": "DECO*27",
+        "data": {
+          "displayVersion": "MURASAKi",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 359,
+        "searchTerms": [
+          "Ghost Rule"
+        ],
+        "title": "\u30b4\u30fc\u30b9\u30c8\u30eb\u30fc\u30eb"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u524a\u9664",
+        "data": {
+          "displayVersion": "MURASAKi",
+          "genre": "maimai"
+        },
+        "id": 370,
+        "searchTerms": [
+          "Ame no hoakari no mikoto",
+          "tenkameimei",
+          "triangle",
+          "triangle song"
+        ],
+        "title": "\u5929\u706b\u660e\u547d"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u77e2\u9d07\u3064\u304b\u3055 feat. kalon.",
+        "data": {
+          "displayVersion": "MiLK",
+          "genre": "maimai"
+        },
+        "id": 469,
+        "searchTerms": [
+          "spill over colours"
+        ],
+        "title": "SPILL OVER COLORS"
+      },
+      {
+        "altTitles": [],
+        "artist": "M2U",
+        "data": {
+          "displayVersion": "MiLK",
+          "genre": "maimai"
+        },
+        "id": 470,
+        "searchTerms": [],
+        "title": "Mare Maris"
+      },
+      {
+        "altTitles": [],
+        "artist": "Tanchiky",
+        "data": {
+          "displayVersion": "MiLK PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 490,
+        "searchTerms": [
+          "ESM"
+        ],
+        "title": "ENERGY SYNERGY MATRIX"
+      },
+      {
+        "altTitles": [],
+        "artist": "t+pazolite",
+        "data": {
+          "displayVersion": "MiLK PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 524,
+        "searchTerms": [
+          "FREEDOM DiVE",
+          "fd"
+        ],
+        "title": "FREEDOM DiVE (tpz Overcute Remix)"
+      },
+      {
+        "altTitles": [],
+        "artist": "Nothing But Requiem (feat.Aikapin & Chiyoko)",
+        "data": {
+          "displayVersion": "maimai\u3067\u3089\u3063\u304f\u3059",
+          "genre": "maimai"
+        },
+        "id": 610,
+        "searchTerms": [
+          "Witch hunt",
+          "Majyo kari",
+          "majo kari",
+          "Majogari"
+        ],
+        "title": "\u9b54\u30b8\u30e7\u72e9\u30ea"
+      },
+      {
+        "altTitles": [],
+        "artist": "DECO*27",
+        "data": {
+          "displayVersion": "maimai\u3067\u3089\u3063\u304f\u3059 PLUS",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 679,
+        "searchTerms": [
+          "Android Girl"
+        ],
+        "title": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u96c4\u4e4b\u52a9 feat. Sennzai",
+        "data": {
+          "displayVersion": "Splash",
+          "genre": "maimai"
+        },
+        "id": 714,
+        "searchTerms": [],
+        "title": "Komplexe"
+      },
+      {
+        "altTitles": [],
+        "artist": "PSYQUI",
+        "data": {
+          "displayVersion": "Splash",
+          "genre": "maimai"
+        },
+        "id": 715,
+        "searchTerms": [],
+        "title": "Beautiful Future"
+      },
+      {
+        "altTitles": [],
+        "artist": "REDALiCE & aran",
+        "data": {
+          "displayVersion": "Splash",
+          "genre": "\u6771\u65b9Project"
+        },
+        "id": 757,
+        "searchTerms": [],
+        "title": "Sweet Requiem"
+      },
+      {
+        "altTitles": [],
+        "artist": "Aoi",
+        "data": {
+          "displayVersion": "Splash",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 763,
+        "searchTerms": [],
+        "title": "c.s.q.n."
+      },
+      {
+        "altTitles": [],
+        "artist": "\u9ed2\u9b54",
+        "data": {
+          "displayVersion": "Splash PLUS",
+          "genre": "maimai"
+        },
+        "id": 778,
+        "searchTerms": [
+          "Clockwork Gemini",
+          "Gemini in Clock Country",
+          "Gemini in clockland",
+          "Gemini in the land of watches",
+          "Tokei no Kuni no Gemini"
+        ],
+        "title": "\u6642\u8a08\u306e\u56fd\u306e\u30b8\u30a7\u30df\u30cb"
+      },
+      {
+        "altTitles": [],
+        "artist": "BlackY feat. Risa Yuzuki",
+        "data": {
+          "displayVersion": "Splash PLUS",
+          "genre": "maimai"
+        },
+        "id": 785,
+        "searchTerms": [
+          "starry colours"
+        ],
+        "title": "Starry Colors"
+      },
+      {
+        "altTitles": [],
+        "artist": "Capchii",
+        "data": {
+          "displayVersion": "Splash PLUS",
+          "genre": "maimai"
+        },
+        "id": 789,
+        "searchTerms": [
+          "Soukyu Bugaku",
+          "Yukyu Buraku"
+        ],
+        "title": "\u84bc\u7a79\u821e\u697d"
+      },
+      {
+        "altTitles": [],
+        "artist": "Limon\u00e8ne (\u30b5\u30ce\u30ab\u30e2\u30e1+\u6708\u5cf6\u6625\u679c)",
+        "data": {
+          "displayVersion": "UNiVERSE",
+          "genre": "maimai"
+        },
+        "id": 858,
+        "searchTerms": [
+          "Yomibito Shirazu",
+          "Yomibito"
+        ],
+        "title": "\u30e8\u30df\u30d3\u30c8\u30b7\u30e9\u30ba"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u7fe1\u4e43\u30a4\u30b9\u30ab",
+        "data": {
+          "displayVersion": "UNiVERSE PLUS",
+          "genre": "maimai"
+        },
+        "id": 919,
+        "searchTerms": [
+          "Paramount Showtime",
+          "paramount"
+        ],
+        "title": "\u30d1\u30e9\u30de\u30a6\u30f3\u30c8\u2606\u30b7\u30e7\u30fc\u30bf\u30a4\u30e0\uff01\uff01"
+      },
+      {
+        "altTitles": [],
+        "artist": "MK",
+        "data": {
+          "displayVersion": "UNiVERSE PLUS",
+          "genre": "maimai"
+        },
+        "id": 925,
+        "searchTerms": [],
+        "title": "Irresistible"
+      },
+      {
+        "altTitles": [],
+        "artist": "Yu-dachi",
+        "data": {
+          "displayVersion": "UNiVERSE PLUS",
+          "genre": "maimai"
+        },
+        "id": 935,
+        "searchTerms": [
+          "shirohana no tenshi",
+          "shirohana",
+          "white flower angel"
+        ],
+        "title": "\u767d\u82b1\u306e\u5929\u4f7f"
+      },
+      {
+        "altTitles": [],
+        "artist": "DECO*27",
+        "data": {
+          "displayVersion": "UNiVERSE PLUS",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 950,
+        "searchTerms": [
+          "Vampire"
+        ],
+        "title": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2"
+      },
+      {
+        "altTitles": [],
+        "artist": "Feryquitous",
+        "data": {
+          "displayVersion": "UNiVERSE PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 961,
+        "searchTerms": [],
+        "title": "Estahv"
+      },
+      {
+        "altTitles": [],
+        "artist": "NAOKI feat.\u5c0f\u5742\u308a\u3086",
+        "data": {
+          "displayVersion": "UNiVERSE PLUS",
+          "genre": "maimai"
+        },
+        "id": 980,
+        "searchTerms": [
+          "Idenshi Level Spiral",
+          "Gene level spiral",
+          "Level spiral",
+          "gene level"
+        ],
+        "title": "\u907a\u4f1d\u5b50\u30ec\u30d9\u30eb\u221e\u30b9\u30d1\u30a4\u30e9\u30eb"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u3044\u308b\u304b\u30a2\u30a4\u30b9 feat.\u3061\u3087\u3053",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "maimai"
+        },
+        "id": 988,
+        "searchTerms": [],
+        "title": "Rainbow Rush Story"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u66f2\uff1aTAKU INOUE\uff0f\u6b4c\uff1a\u65e9\u4e59\u5973 \u5f69\u83ef(CV\uff1a\u4e2d\u5cf6 \u552f)",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 996,
+        "searchTerms": [],
+        "title": "Catch Me If You Can"
+      },
+      {
+        "altTitles": [],
+        "artist": "Yu-dachi",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 997,
+        "searchTerms": [],
+        "title": "MAGNETAR GIRL"
+      },
+      {
+        "altTitles": [],
+        "artist": "AJURIKA",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 998,
+        "searchTerms": [],
+        "title": "SUPER AMBULANCE"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u30c4\u30df\u30ad\u3000feat.\u97f3\u697d\u7684\u540c\u4f4d\u4f53\u3000\u53ef\u4e0d\uff08KAFU\uff09",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 1004,
+        "searchTerms": [
+          "phony"
+        ],
+        "title": "\u30d5\u30a9\u30cb\u30a4"
+      },
+      {
+        "altTitles": [],
+        "artist": "Sobrem \u00d7 Silentroom",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1009,
+        "searchTerms": [],
+        "title": "Random"
+      },
+      {
+        "altTitles": [],
+        "artist": "Lime",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1010,
+        "searchTerms": [],
+        "title": "Luminaria"
+      },
+      {
+        "altTitles": [],
+        "artist": "Mameyudoufu feat. Shully",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "maimai"
+        },
+        "id": 1021,
+        "searchTerms": [],
+        "title": "You Mean the World to Me"
+      },
+      {
+        "altTitles": [],
+        "artist": "DJ Raisei",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "maimai"
+        },
+        "id": 1023,
+        "searchTerms": [
+          "Crazy Nation 2",
+          "prava"
+        ],
+        "title": "#\u72c2\u3063\u305f\u6c11\u65cf\uff12 PRAVARGYAZOOQA"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u4e9c\u6c99 feat.\u304f\u308d\u304f\u3082",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 1039,
+        "searchTerms": [],
+        "title": "Ghost Dance"
+      },
+      {
+        "altTitles": [],
+        "artist": "ETIA.",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 1041,
+        "searchTerms": [],
+        "title": "Hainuwele"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u308f\u304b\u3069\u308a",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1045,
+        "searchTerms": [],
+        "title": "NightTheater"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u3044\u3088\u308f",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 1048,
+        "searchTerms": [
+          "Kyuukurarin"
+        ],
+        "title": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093"
+      },
+      {
+        "altTitles": [],
+        "artist": "Endorfin.",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1054,
+        "searchTerms": [],
+        "title": "Alice's Suitcase"
+      },
+      {
+        "altTitles": [],
+        "artist": "s-don vs. \u7fe1\u4e43\u30a4\u30b9\u30ab",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 1060,
+        "searchTerms": [
+          "Tricksters"
+        ],
+        "title": "Trrricksters!!"
+      },
+      {
+        "altTitles": [],
+        "artist": "USAO",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1062,
+        "searchTerms": [],
+        "title": "Knight Rider"
+      },
+      {
+        "altTitles": [],
+        "artist": "Aiobahn feat. KOTOKO",
+        "data": {
+          "displayVersion": "FESTiVAL",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1063,
+        "searchTerms": [],
+        "title": "INTERNET OVERDOSE"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u9ed2\u9b54",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "maimai"
+        },
+        "id": 1070,
+        "searchTerms": [
+          "nya nya bokentan"
+        ],
+        "title": "\u306b\u3083\u30fc\u306b\u3083\u30fc\u5192\u967a\u8b5a"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u9752\u6817\u9f20 feat.sekai",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "maimai"
+        },
+        "id": 1072,
+        "searchTerms": [
+          "Refvain"
+        ],
+        "title": "\u30ea\u30d5\u30f4\u30a7\u30a4\u30f3"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u3042\u3042\u3042\u3042\uff0f\u5927\u56fd\u594f\u97f3",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "maimai"
+        },
+        "id": 1075,
+        "searchTerms": [
+          "kokokara hajimaru prologue"
+        ],
+        "title": "\u3053\u3053\u304b\u3089\u306f\u3058\u307e\u308b\u30d7\u30ed\u30ed\u30fc\u30b0\u3002 (Kanon Remix)"
+      },
+      {
+        "altTitles": [],
+        "artist": "Ayatsugu_Otowa",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1091,
+        "searchTerms": [],
+        "title": "Lights of Muse"
+      },
+      {
+        "altTitles": [],
+        "artist": "Sugar & Co.",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1092,
+        "searchTerms": [],
+        "title": "tape/stop/night"
+      },
+      {
+        "altTitles": [],
+        "artist": "Lime",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1093,
+        "searchTerms": [],
+        "title": "Final Step!"
+      },
+      {
+        "altTitles": [],
+        "artist": "lapix",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1099,
+        "searchTerms": [
+          "continue"
+        ],
+        "title": "\u30b3\u30f3\u30c6\u30a3\u30cb\u30e5\u30fc\uff01 feat. \u85cd\u6708\u306a\u304f\u308b"
+      },
+      {
+        "altTitles": [],
+        "artist": "Mameyudoufu",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1100,
+        "searchTerms": [],
+        "title": "Sunday Night feat Kanata.N"
+      },
+      {
+        "altTitles": [],
+        "artist": "rejection",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1101,
+        "searchTerms": [],
+        "title": "PERSONA feat. PANXI"
+      },
+      {
+        "altTitles": [],
+        "artist": "YUKIYANAGI",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1103,
+        "searchTerms": [],
+        "title": "Complex Mind"
+      },
+      {
+        "altTitles": [],
+        "artist": "Tanchiky",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1106,
+        "searchTerms": [],
+        "title": "ULTRA SYNERGY MATRIX"
+      },
+      {
+        "altTitles": [],
+        "artist": "EmoCosine",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1116,
+        "searchTerms": [],
+        "title": "MAGENTA POTION"
+      },
+      {
+        "altTitles": [],
+        "artist": "USAO",
+        "data": {
+          "displayVersion": "FESTiVAL PLUS",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 1127,
+        "searchTerms": [],
+        "title": "Last Kingdom"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u516b\u738b\u5b50P feat. \u306a\u306a\u3072\u3089\u30fb\u307e\u3081\u3053",
+        "data": {
+          "displayVersion": "BUDDiES",
+          "genre": "maimai"
+        },
+        "id": 1134,
+        "searchTerms": [
+          "noisy bounce"
+        ],
+        "title": "NOIZY BOUNCE"
+      },
+      {
+        "altTitles": [],
+        "artist": "crayvxn",
+        "data": {
+          "displayVersion": "BUDDiES",
+          "genre": "maimai"
+        },
+        "id": 1142,
+        "searchTerms": [],
+        "title": "my flow"
+      },
+      {
+        "altTitles": [],
+        "artist": "Zekk",
+        "data": {
+          "displayVersion": "BUDDiES",
+          "genre": "maimai"
+        },
+        "id": 1143,
+        "searchTerms": [],
+        "title": "POWER OF UNITY"
+      },
+      {
+        "altTitles": [],
+        "artist": "Getty vs DJ DiA",
+        "data": {
+          "displayVersion": "BUDDiES",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 1149,
+        "searchTerms": [
+          "squad phantom"
+        ],
+        "title": "SQUAD-Phvntom-"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u5c71\u672c\u771f\u592e\u6a39",
+        "data": {
+          "displayVersion": "BUDDiES",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 1150,
+        "searchTerms": [],
+        "title": "GEOMETRIC DANCE"
+      },
+      {
+        "altTitles": [],
+        "artist": "sasakure.UK",
+        "data": {
+          "displayVersion": "BUDDiES",
+          "genre": "niconico\uff06\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 1167,
+        "searchTerms": [
+          "tondemonai wonders"
+        ],
+        "title": "\u30c8\u30f3\u30c7\u30e2\u30ef\u30f3\u30c0\u30fc\u30ba"
+      },
+      {
+        "altTitles": [],
+        "artist": "Iris",
+        "data": {
+          "displayVersion": "BUDDiES",
+          "genre": "maimai"
+        },
+        "id": 1182,
+        "searchTerms": [],
+        "title": "The Great Banquet"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u304b\u3081\u308a\u3042",
+        "data": {
+          "displayVersion": "BUDDiES",
+          "genre": "\u30aa\u30f3\u30b2\u30ad\uff06CHUNITHM"
+        },
+        "id": 1194,
+        "searchTerms": [],
+        "title": "\u039bzure Vixen"
+      },
+      {
+        "altTitles": [],
+        "artist": "Aiobahn feat. KOTOKO",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "POPS\uff06\u30a2\u30cb\u30e1"
+        },
+        "id": 1205,
+        "searchTerms": [],
+        "title": "INTERNET YAMERO"
+      },
+      {
+        "altTitles": [],
+        "artist": "DECO*27",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "POPS\uff06\u30a2\u30cb\u30e1"
+        },
+        "id": 1211,
+        "searchTerms": [
+          "Rabbit hole"
+        ],
+        "title": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb"
+      },
+      {
+        "altTitles": [],
+        "artist": "saaa + kei_iwata + stuv + \u308f\u304b\u3069\u308a",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1215,
+        "searchTerms": [],
+        "title": "New York Back Raise"
+      },
+      {
+        "altTitles": [],
+        "artist": "SOUND HOLIC Vs. Eurobeat Union feat. Nana Takahashi",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1218,
+        "searchTerms": [
+          "dual roses"
+        ],
+        "title": "DUAL ROZES"
+      },
+      {
+        "altTitles": [],
+        "artist": "aran",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1220,
+        "searchTerms": [],
+        "title": "VOLT"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u9ed2\u9b54",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30b2\u30fc\u30e0\uff06\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1221,
+        "searchTerms": [],
+        "title": "tiny tales continue"
+      },
+      {
+        "altTitles": [],
+        "artist": "Ryo Fukuda",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "maimai"
+        },
+        "id": 1227,
+        "searchTerms": [
+          "cider party"
+        ],
+        "title": "Cider P@rty"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u307e\u3089\u3057\u3043\u00d7\u3058\u3093\u00d7\u5800\u6c5f\u6676\u592a(kemu) feat.\u93e1\u97f3\u30ea\u30f3",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "niconico\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 1233,
+        "searchTerms": [
+          "shin jinrui"
+        ],
+        "title": "\u65b0\u4eba\u985e"
+      },
+      {
+        "altTitles": [],
+        "artist": "isonosuke",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "niconico\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 1236,
+        "searchTerms": [
+          "baka tsuushin"
+        ],
+        "title": "\u30d0\u30ab\u901a\u4fe1"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u4f0a\u85e4\u548c\u99ac(Arte Refact) feat.konoco",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "maimai"
+        },
+        "id": 1375,
+        "searchTerms": [
+          "bokura no kizuna"
+        ],
+        "title": "Shining Ray \uff5e\u50d5\u3089\u306e\u7d46\uff5e"
+      },
+      {
+        "altTitles": [],
+        "artist": "Reku Mochizuki",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30b2\u30fc\u30e0\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1380,
+        "searchTerms": [
+          "infinite energy"
+        ],
+        "title": "INFiNiTE ENERZY -Overdoze-"
+      },
+      {
+        "altTitles": [],
+        "artist": "t+pazolite & Srav3R",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30b2\u30fc\u30e0\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1381,
+        "searchTerms": [],
+        "title": "Make Up Your World feat. \u30ad\u30e7\u30f3\u30b7\u30fc\u306eCi\u3061\u3083\u3093 & \u3089\u3063\u3077\u3073\u3068"
+      },
+      {
+        "altTitles": [],
+        "artist": "P*Light",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30b2\u30fc\u30e0\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1382,
+        "searchTerms": [],
+        "title": "BOOM! BOOM!! BOOM!!!"
+      },
+      {
+        "altTitles": [],
+        "artist": "DJ Noriken",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30b2\u30fc\u30e0\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1383,
+        "searchTerms": [],
+        "title": "Everybody Say HARDCORE TANO*C"
+      },
+      {
+        "altTitles": [],
+        "artist": "Massive New Krew feat. \u5149\u5409\u731b\u4fee",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30b2\u30fc\u30e0\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1385,
+        "searchTerms": [],
+        "title": "Trust"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u66f2\uff1a\u672c\u591a\u53cb\u7d00\uff08Arte Refact\uff09\uff0f\u6b4c\uff1a\u65e5\u5411 \u5343\u590f(CV\uff1a\u5ca1\u54b2 \u7f8e\u4fdd)",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30aa\u30f3\u30b2\u30adCHUNITHM"
+        },
+        "id": 1393,
+        "searchTerms": [
+          "massugu stream"
+        ],
+        "title": "\u307e\u3063\u3059\u3050\u2192\u2192\u2192\u30b9\u30c8\u30ea\u30fc\u30e0\uff01"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u66f2\uff1a\u672c\u7530\u6b63\u6a39(Dream Monster)\uff0f\u6b4c\uff1a7EVENDAYS\u21d4HOLIDAYS [\u4e95\u4e4b\u539f \u5c0f\u661f(CV\uff1a\u3082\u3082\u306e \u306f\u308b\u306a)\u3001\u67cf\u6728 \u54b2\u59eb(CV\uff1a\u77f3\u898b \u821e\u83dc\u9999)]",
+        "data": {
+          "displayVersion": "BUDDiES PLUS",
+          "genre": "\u30aa\u30f3\u30b2\u30adCHUNITHM"
+        },
+        "id": 1394,
+        "searchTerms": [
+          "saikou no entame da"
+        ],
+        "title": "\u6700\u3063\u9ad8\u306e\u30a8\u30f3\u30bf\u30e1\u3060!!"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u304b\u3044\u308a\u304d\u30d9\u30a2",
+        "data": {
+          "displayVersion": "PRiSM",
+          "genre": "niconico\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 1406,
+        "searchTerms": [
+          "yamiaka steroid"
+        ],
+        "title": "\u75c5\u307f\u57a2\u30b9\u30c6\u30ed\u30a4\u30c9"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u304b\u3044\u308a\u304d\u30d9\u30a2",
+        "data": {
+          "displayVersion": "PRiSM",
+          "genre": "niconico\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 1407,
+        "searchTerms": [
+          "darling dance"
+        ],
+        "title": "\u30c0\u30fc\u30ea\u30f3\u30c0\u30f3\u30b9"
+      },
+      {
+        "altTitles": [],
+        "artist": "DECO*27, \u30d4\u30ce\u30ad\u30aa\u30d4\u30fc",
+        "data": {
+          "displayVersion": "PRiSM",
+          "genre": "niconico\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 1411,
+        "searchTerms": [
+          "(not) a devil"
+        ],
+        "title": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u306a\u307f\u3050\u308b feat.\u305a\u3093\u3060\u3082\u3093",
+        "data": {
+          "displayVersion": "PRiSM",
+          "genre": "niconico\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 1412,
+        "searchTerms": [
+          "zunda party night"
+        ],
+        "title": "\u305a\u3093\u3060\u30d1\u30fc\u30ea\u30ca\u30a4"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u3071\u3089\u3069\u3063\u3068",
+        "data": {
+          "displayVersion": "PRiSM",
+          "genre": "\u6771\u65b9Project"
+        },
+        "id": 1413,
+        "searchTerms": [],
+        "title": "Ultimate taste"
+      },
+      {
+        "altTitles": [],
+        "artist": "Lime",
+        "data": {
+          "displayVersion": "PRiSM",
+          "genre": "\u30b2\u30fc\u30e0\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1414,
+        "searchTerms": [],
+        "title": "Chronomia"
+      },
+      {
+        "altTitles": [],
+        "artist": "Street",
+        "data": {
+          "displayVersion": "PRiSM",
+          "genre": "\u30b2\u30fc\u30e0\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1415,
+        "searchTerms": [],
+        "title": "Empire of Winter"
+      },
+      {
+        "altTitles": [],
+        "artist": "Ashrount vs. \u6253\u6253\u3060\u3044\u305a",
+        "data": {
+          "displayVersion": "PRiSM",
+          "genre": "\u30b2\u30fc\u30e0\u30d0\u30e9\u30a8\u30c6\u30a3"
+        },
+        "id": 1418,
+        "searchTerms": [],
+        "title": "Abstruse Dilemma"
+      },
+      {
+        "altTitles": [],
+        "artist": "\u67ca\u30de\u30b0\u30cd\u30bf\u30a4\u30c8",
+        "data": {
+          "displayVersion": "PRiSM",
+          "genre": "niconico\u30dc\u30fc\u30ab\u30ed\u30a4\u30c9"
+        },
+        "id": 1419,
+        "searchTerms": [
+          "realize"
+        ],
+        "title": "\u30ea\u30a2\u30e9\u30a4\u30ba"
+      }
+    ],
+    "charts": [
+      {
+        "chartID": "034ad2d92b1a4740cf4611e3a06d6a23da0d1e73",
+        "data": {
+          "inGameID": 11769
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 1412,
+        "versions": [
+          "prism"
+        ]
+      },
+      {
+        "chartID": "04056d4e4cba2e43a96e15ea0a69051f5cc9e7bb",
+        "data": {
+          "inGameID": 11509
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.9,
+        "playtype": "Single",
+        "songID": 1045,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "04195f89a7e2dec09aab28f5220849665e54510c",
+        "data": {
+          "inGameID": 11459
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1021,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "056955891f7ba0a0ae35cf51febe8c452a57f2fe",
+        "data": {
+          "inGameID": 11617
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 1143,
+        "versions": [
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "0943775f01df2e27396c7cc11ae32d4346d4d6b7",
+        "data": {
+          "inGameID": 10288
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 174,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "0c235471f2610140b4e8d5d83d0b7624a4453543",
+        "data": {
+          "inGameID": 11204
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 757,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "0e23943e58a87f16f562e733d6b88273b0906806",
+        "data": {
+          "inGameID": 11461
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14.4,
+        "playtype": "Single",
+        "songID": 1023,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "0fcdd506f3c1cdc5d7ca482e7ad879a831d07ec0",
+        "data": {
+          "inGameID": 566
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14,
+        "playtype": "Single",
+        "songID": 370,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "11052738550e0b3324240d1e91fa6360ee50f21e",
+        "data": {
+          "inGameID": 11122
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "12+",
+        "levelNum": 12.9,
+        "playtype": "Single",
+        "songID": 679,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "11513b422b4a4087a6c0786ad9761de942f6a3fd",
+        "data": {
+          "inGameID": 11702
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1215,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "154fcb76f6ae22132ee8f175a94be0dedc1918ce",
+        "data": {
+          "inGameID": 146
+        },
+        "difficulty": "Re:Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.4,
+        "playtype": "Single",
+        "songID": 83,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "1708cb12ed3660084b3c3588362919945700a9a6",
+        "data": {
+          "inGameID": 11308
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 858,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "194adbc0e67e5911d349383c881f1c9623ca160f",
+        "data": {
+          "inGameID": 11625
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14.4,
+        "playtype": "Single",
+        "songID": 1150,
+        "versions": [
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "1a043c299011c2f11a145aa1bd229f7174710c5f",
+        "data": {
+          "inGameID": 11586
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.3,
+        "playtype": "Single",
+        "songID": 1101,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "20fb79b329025c911a032db2c5bc8b4f6edfbd47",
+        "data": {
+          "inGameID": 465
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 301,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "2350e8b186680d00d8222b987ff8c138945e6567",
+        "data": {
+          "inGameID": 11805
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.2,
+        "playtype": "Single",
+        "songID": 1419,
+        "versions": [
+          "prism"
+        ]
+      },
+      {
+        "chartID": "29762bd31ece20b258ddf10f0046562af158f68c",
+        "data": {
+          "inGameID": 11761
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.9,
+        "playtype": "Single",
+        "songID": 1406,
+        "versions": [
+          "prism"
+        ]
+      },
+      {
+        "chartID": "298b62eb9f45cd4146e9588e7435039b05cc7331",
+        "data": {
+          "inGameID": 11723
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.6,
+        "playtype": "Single",
+        "songID": 1382,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "2ae5db2017d15649139cbb525ca074a4c9a66b2c",
+        "data": {
+          "inGameID": 11473
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.2,
+        "playtype": "Single",
+        "songID": 996,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "2af4634651427bc7915c4b97bdc34229b6aaf1d8",
+        "data": {
+          "inGameID": 11770
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1413,
+        "versions": [
+          "prism"
+        ]
+      },
+      {
+        "chartID": "2bbbcb8b3347c231884e724efffda909d8eda473",
+        "data": {
+          "inGameID": 705
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.9,
+        "playtype": "Single",
+        "songID": 470,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "2d177779fdf34dcea8a4845852792ae44e96a959",
+        "data": {
+          "inGameID": 11674
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.5,
+        "playtype": "Single",
+        "songID": 1227,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "2d5606489ec85e0bae7032d4bd3bd933347533df",
+        "data": {
+          "inGameID": 11724
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.5,
+        "playtype": "Single",
+        "songID": 1383,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "34b939fa0f8c246f9c258b8f0ae2afefcd4c4809",
+        "data": {
+          "inGameID": 734
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.9,
+        "playtype": "Single",
+        "songID": 490,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "36b9930a9acf4fb2963fbdc66be11390b893360c",
+        "data": {
+          "inGameID": 11566
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 1062,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "37e76b6d82f7f7654eead7f8d4583d09a1003cb2",
+        "data": {
+          "inGameID": 11645
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.6,
+        "playtype": "Single",
+        "songID": 1167,
+        "versions": [
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "37f434f576f0e95d454bc29548d2e82e860e371c",
+        "data": {
+          "inGameID": 11553
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 1127,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "3a38b669b28a2721b793309b628930d8d96491f8",
+        "data": {
+          "inGameID": 11585
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.5,
+        "playtype": "Single",
+        "songID": 1100,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "4037423850e111b28df720bc4273b31f8f311f96",
+        "data": {
+          "inGameID": 511
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.4,
+        "playtype": "Single",
+        "songID": 324,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "436247f380aa8260f4d927c4d0fc15b82acc1eb9",
+        "data": {
+          "inGameID": 11485
+        },
+        "difficulty": "DX Re:Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.3,
+        "playtype": "Single",
+        "songID": 1004,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "451da9524f2d5b8c33fdc060993ef1d8a1c64bd1",
+        "data": {
+          "inGameID": 11624
+        },
+        "difficulty": "DX Expert",
+        "isPrimary": true,
+        "level": "12+",
+        "levelNum": 12.8,
+        "playtype": "Single",
+        "songID": 1149,
+        "versions": [
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "47b9115c5322e20ea1d18393b27d1ec0afaf0cc5",
+        "data": {
+          "inGameID": 11237
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.9,
+        "playtype": "Single",
+        "songID": 789,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "48d7384dd8db912e0040bc493615f5ed5438d5b9",
+        "data": {
+          "inGameID": 552
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.2,
+        "playtype": "Single",
+        "songID": 359,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "4a9da1c5d94aa60fdfd3ab465a187566fc74b65b",
+        "data": {
+          "inGameID": 11608
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.4,
+        "playtype": "Single",
+        "songID": 1134,
+        "versions": [
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "4c58105b1165f93d429d48a05449c42deec36569",
+        "data": {
+          "inGameID": 10363
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.6,
+        "playtype": "Single",
+        "songID": 231,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "5103cf22ccc17d9b7b118e9b4ba3ce3caa25a4bc",
+        "data": {
+          "inGameID": 11393
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 935,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "58857b4bac159b250db06d9ba99be3ff9812540b",
+        "data": {
+          "inGameID": 11789
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14.4,
+        "playtype": "Single",
+        "songID": 1418,
+        "versions": [
+          "prism"
+        ]
+      },
+      {
+        "chartID": "5c35177486c2ed98266a0dd193cc27d42115efa2",
+        "data": {
+          "inGameID": 11383
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.6,
+        "playtype": "Single",
+        "songID": 925,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "5d51950e0a3c05835d5be9a657a8c7f84ace05d8",
+        "data": {
+          "inGameID": 314
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.9,
+        "playtype": "Single",
+        "songID": 195,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "5eb2e812432ae4f8146df2ee7523d0c26bba0eba",
+        "data": {
+          "inGameID": 11491
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14,
+        "playtype": "Single",
+        "songID": 1010,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "6136cfe01b4761db04ca512e07dab2fc6244715a",
+        "data": {
+          "inGameID": 11786
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1415,
+        "versions": [
+          "prism"
+        ]
+      },
+      {
+        "chartID": "66aa6e1e1e6dc6a3271e3ace793ecd0a7acda97d",
+        "data": {
+          "inGameID": 11588
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 1103,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "699a822438fc9f3a11ab4d044850acd914f5ef8a",
+        "data": {
+          "inGameID": 461
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 297,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "6b182790cc4413c2dd9c7a9a52a60f02002a614f",
+        "data": {
+          "inGameID": 11490
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1009,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "6b6a9ef0bf90e4e5d5f019999b4f59d4526e3a3e",
+        "data": {
+          "inGameID": 11549
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14.3,
+        "playtype": "Single",
+        "songID": 1060,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "6b7f63716755b5419e489113a052a0c46def0836",
+        "data": {
+          "inGameID": 11568
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.5,
+        "playtype": "Single",
+        "songID": 1063,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "6c0860a627d9980268d363438da2a703d2305b23",
+        "data": {
+          "inGameID": 11591
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14,
+        "playtype": "Single",
+        "songID": 1106,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "71bc6de9ec19ac94930cf44aaa3544943c99a608",
+        "data": {
+          "inGameID": 11410
+        },
+        "difficulty": "DX Re:Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.4,
+        "playtype": "Single",
+        "songID": 950,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "71c6bc7b604b9656bfe21d9017f5a9a5cce60cda",
+        "data": {
+          "inGameID": 11533
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1070,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "72ca58caaef7e36ab028e5b8d0c278db078d605a",
+        "data": {
+          "inGameID": 11534
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14,
+        "playtype": "Single",
+        "songID": 1182,
+        "versions": [
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "72f10294cae24a7d8069df6c2492752e5fabc230",
+        "data": {
+          "inGameID": 11474
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 997,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "7550762cc289d11fcf2f38c494fbbe7db5542b31",
+        "data": {
+          "inGameID": 704
+        },
+        "difficulty": "Re:Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.4,
+        "playtype": "Single",
+        "songID": 469,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "7722c39aaeb1dc971ceb628a474271b5573bbd2c",
+        "data": {
+          "inGameID": 11210
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 763,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "79c6f1ce53d131fd6ba15d39e9d2844217402cb7",
+        "data": {
+          "inGameID": 11159
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 715,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "79c85d31e118fefce4f675e78fe3c6e13e908ddf",
+        "data": {
+          "inGameID": 11479
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14.3,
+        "playtype": "Single",
+        "songID": 1041,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "7c2cd8bdd943e71f7cf4fb840603884db39a4344",
+        "data": {
+          "inGameID": 11226
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13,
+        "playtype": "Single",
+        "songID": 778,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "7ce26db1107fd8bb8211f58bcb7ba9e7548527c7",
+        "data": {
+          "inGameID": 107
+        },
+        "difficulty": "Re:Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.3,
+        "playtype": "Single",
+        "songID": 49,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "7d05e7e21b0cb861afd26c16d63156d05e04925b",
+        "data": {
+          "inGameID": 11572
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "12+",
+        "levelNum": 12.8,
+        "playtype": "Single",
+        "songID": 1092,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "84538c4bc9398f062829b09d5f66333de83bfc13",
+        "data": {
+          "inGameID": 11616
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1142,
+        "versions": [
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "88dfccd129cf5caf19b37f019b5b95b0066c2c2b",
+        "data": {
+          "inGameID": 11542
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 1075,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "8915aaef9ead8b393886c196e9c5b96469f180ac",
+        "data": {
+          "inGameID": 11607
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1116,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "8a661b6b7bcb9d3f067752c0644a07222e87dc70",
+        "data": {
+          "inGameID": 11158
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 714,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "8f94f9a5ddbd75e76e2c492247ca9ed133b873bb",
+        "data": {
+          "inGameID": 11524
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1054,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "90ebe6c67885127d1655ef5b11bb395a9bd8daad",
+        "data": {
+          "inGameID": 11767
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13,
+        "playtype": "Single",
+        "songID": 1411,
+        "versions": [
+          "prism"
+        ]
+      },
+      {
+        "chartID": "95129981e7b7266b16f732ab588d4ce6e2dac34c",
+        "data": {
+          "inGameID": 11771
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14.2,
+        "playtype": "Single",
+        "songID": 1414,
+        "versions": [
+          "prism"
+        ]
+      },
+      {
+        "chartID": "97391f54de109906095d16219c273378e071c246",
+        "data": {
+          "inGameID": 11453
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 988,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "979e08f772f74bacae8e315ad5c8effe4d27849e",
+        "data": {
+          "inGameID": 11697
+        },
+        "difficulty": "DX Re:Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.3,
+        "playtype": "Single",
+        "songID": 1211,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "996ff6c5400242ca48b58f8f28298e7aa7c886eb",
+        "data": {
+          "inGameID": 11477
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.3,
+        "playtype": "Single",
+        "songID": 1039,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "abd2723b8348e197baccd566d3c53927a92aa554",
+        "data": {
+          "inGameID": 11688
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.5,
+        "playtype": "Single",
+        "songID": 1393,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "b1e7dcce72077f25ac00cbce925c8a202b9abf5a",
+        "data": {
+          "inGameID": 529
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.2,
+        "playtype": "Single",
+        "songID": 341,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "b46374ef2dd84b778f32a2678f773be34be18c2e",
+        "data": {
+          "inGameID": 11705
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.4,
+        "playtype": "Single",
+        "songID": 1220,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "b4d34905ecd90eed293d36a7b75026db2d9b1299",
+        "data": {
+          "inGameID": 11699
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1233,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "b9186c3aaa783e6f07791f582285ece8a3bcec70",
+        "data": {
+          "inGameID": 200
+        },
+        "difficulty": "Re:Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.3,
+        "playtype": "Single",
+        "songID": 105,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "bb9611daf82101be5aec9042b43c226d0721d17c",
+        "data": {
+          "inGameID": 772
+        },
+        "difficulty": "Expert",
+        "isPrimary": true,
+        "level": "12+",
+        "levelNum": 12.8,
+        "playtype": "Single",
+        "songID": 524,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "c2501696df54ad8093fe5a9cfc46b12438fd1c0d",
+        "data": {
+          "inGameID": 11445
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 980,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "c2921a6a1237f26188cfb91a5f399e3ccd27f7ec",
+        "data": {
+          "inGameID": 11475
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14.3,
+        "playtype": "Single",
+        "songID": 998,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "c54bd48dceefcfa7e565a6cce96ac5a263fdbd24",
+        "data": {
+          "inGameID": 11721
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14,
+        "playtype": "Single",
+        "songID": 1380,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "c7bf3866e7f047efbfaa03e36f857c6e49a293c2",
+        "data": {
+          "inGameID": 11704
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1218,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "c9146dcae6060eec6cb83bf844251c7fb485ed8a",
+        "data": {
+          "inGameID": 11763
+        },
+        "difficulty": "DX Re:Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.5,
+        "playtype": "Single",
+        "songID": 1407,
+        "versions": [
+          "prism"
+        ]
+      },
+      {
+        "chartID": "cb7132a389a130c8756734fabd9c9aeb8cca1250",
+        "data": {
+          "inGameID": 351
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.2,
+        "playtype": "Single",
+        "songID": 224,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "ce9bdb8d438ee374cf33307c9f7e0ff7bfccd4b1",
+        "data": {
+          "inGameID": 11233
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14,
+        "playtype": "Single",
+        "songID": 785,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "cf1f5c8e0059156a0615bcc839ab5513d6f9fb7e",
+        "data": {
+          "inGameID": 11571
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.2,
+        "playtype": "Single",
+        "songID": 1091,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "cf4b9a70c78979b355f5a7366aee39b133a0adba",
+        "data": {
+          "inGameID": 11377
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "14",
+        "levelNum": 14,
+        "playtype": "Single",
+        "songID": 919,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "d2f1d3fbea4f4ba4aba493dadd9e75ce47daa2fa",
+        "data": {
+          "inGameID": 11706
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.9,
+        "playtype": "Single",
+        "songID": 1221,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "d4f2d5032a156b761c722eb076cfd319d5716090",
+        "data": {
+          "inGameID": 464
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 300,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "d85047d6f9fff23dce1ddaa8d9ecefde158bebcf",
+        "data": {
+          "inGameID": 11689
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1394,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "dc387ea9b8484338b14202f67818432f4c1cb325",
+        "data": {
+          "inGameID": 11692
+        },
+        "difficulty": "DX Re:Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 1205,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "e016fc2a3e509f3a4ae03745b2a326409aec6658",
+        "data": {
+          "inGameID": 11539
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.6,
+        "playtype": "Single",
+        "songID": 1072,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "e580c64dfa4109a6778277b105f5a419325e911e",
+        "data": {
+          "inGameID": 11584
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.6,
+        "playtype": "Single",
+        "songID": 1099,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "e59951a13da39fa637aa8c156168c32c109b9293",
+        "data": {
+          "inGameID": 11512
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1048,
+        "versions": [
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "e6975b279dc6efc85e957bf74710fa6235056c17",
+        "data": {
+          "inGameID": 11573
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 1093,
+        "versions": [
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "e77c66e1619354c2cf2efba5a837f775d44ac461",
+        "data": {
+          "inGameID": 283
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 171,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "e8c021b29d7376650f99e18121e1b2d705b80565",
+        "data": {
+          "inGameID": 11726
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.6,
+        "playtype": "Single",
+        "songID": 1385,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "ea170ff8ff22475ed63794d243e7c56f8af60ff5",
+        "data": {
+          "inGameID": 11716
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 1236,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "ec6d2e32605d3154db272dcee14c49e01321a4f5",
+        "data": {
+          "inGameID": 11424
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.8,
+        "playtype": "Single",
+        "songID": 961,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "f5c04e494c3e4dd8a877b79ce27274fa8ee636b8",
+        "data": {
+          "inGameID": 204
+        },
+        "difficulty": "Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.3,
+        "playtype": "Single",
+        "songID": 109,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "f61fe5cc713e269d7559657d366c0aeb3369c16c",
+        "data": {
+          "inGameID": 11722
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.4,
+        "playtype": "Single",
+        "songID": 1381,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "f664ccbf9da35e8c505564bb94cdc5c1afd631be",
+        "data": {
+          "inGameID": 11680
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.3,
+        "playtype": "Single",
+        "songID": 1375,
+        "versions": [
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "f6c2c55eb93b72ad724e7d215b91fc7fdfd5bcbb",
+        "data": {
+          "inGameID": 11021
+        },
+        "difficulty": "DX Master",
+        "isPrimary": true,
+        "level": "13+",
+        "levelNum": 13.7,
+        "playtype": "Single",
+        "songID": 610,
+        "versions": [
+          "universeplus",
+          "festival",
+          "festivalplus",
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      },
+      {
+        "chartID": "f70664c128fad6b63a9157fcfceb730b439dfc6c",
+        "data": {
+          "inGameID": 11686
+        },
+        "difficulty": "DX Expert",
+        "isPrimary": true,
+        "level": "13",
+        "levelNum": 13.2,
+        "playtype": "Single",
+        "songID": 1194,
+        "versions": [
+          "buddies",
+          "buddies-omni",
+          "buddiesplus",
+          "buddiesplus-omni",
+          "prism"
+        ]
+      }
+    ]
+  }
+}
